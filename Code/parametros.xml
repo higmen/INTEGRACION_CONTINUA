@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<parametros xmlns="http://tempuri.org/parametros.xsd">
+	<base_datos>H:\ADMINISTRACION\IT\SUPP_DEV\2016\PROYECTOS\Dev\RHForms\Otros\Rhforms\Actualizacion2016\RHforms.mdb</base_datos>
+	<Ruta_reporte_rem>d:\WebApps\RHForms\</Ruta_reporte_rem>
+	<Image_Logo>/Imagenes/Logo.jpg</Image_Logo>
+</parametros>

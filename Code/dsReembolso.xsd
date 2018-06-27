@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="dsReembolso" targetNamespace="http://www.tempuri.org/dsReembolso.xsd" xmlns:mstns="http://www.tempuri.org/dsReembolso.xsd" xmlns="http://www.tempuri.org/dsReembolso.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="dsReembolso" msdata:IsDataSet="true" msdata:Locale="es-CO">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element name="Reembolso">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CC__x0020_NIT" type="xs:string" minOccurs="0" />
+              <xs:element name="Ced_Dependiente" type="xs:double" minOccurs="0" />
+              <xs:element name="Ced_Empleado" type="xs:int" minOccurs="0" />
+              <xs:element name="Cod_Reembolso" msdata:AutoIncrement="true" type="xs:int" minOccurs="0" />
+              <xs:element name="Concepto" type="xs:string" minOccurs="0" />
+              <xs:element name="Destino" type="xs:string" minOccurs="0" />
+              <xs:element name="Fecha_Recibo" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Id_SubtipoR" type="xs:int" minOccurs="0" />
+              <xs:element name="Mes_Reembolso" type="xs:string" minOccurs="0" />
+              <xs:element name="Observacion" type="xs:string" minOccurs="0" />
+              <xs:element name="Pagado_a" type="xs:string" minOccurs="0" />
+              <xs:element name="Valor" type="xs:int" minOccurs="0" />
+              <xs:element name="Visado" type="xs:boolean" minOccurs="0" />
+              <xs:element name="Nombre" type="xs:string" minOccurs="0" />
+              <xs:element name="Expr1" msdata:AutoIncrement="true" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

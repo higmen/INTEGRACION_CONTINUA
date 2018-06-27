@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="dsGrilla" targetNamespace="http://www.tempuri.org/dsGrilla.xsd" xmlns:mstns="http://www.tempuri.org/dsGrilla.xsd" xmlns="http://www.tempuri.org/dsGrilla.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:element name="dsGrilla" msdata:IsDataSet="true" msdata:Locale="es-CO">
+    <xs:complexType>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element name="OrdendeMision">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Aprobacion" type="xs:short" minOccurs="0" />
+              <xs:element name="Ced_Empleado" type="xs:int" />
+              <xs:element name="Destino" type="xs:string" minOccurs="0" />
+              <xs:element name="Fec_regreso" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Fec_salida" type="xs:dateTime" />
+              <xs:element name="Hotel" type="xs:string" minOccurs="0" />
+              <xs:element name="Not_gastos" type="xs:string" minOccurs="0" />
+              <xs:element name="Objeto" type="xs:string" minOccurs="0" />
+              <xs:element name="Pasajes" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:OrdendeMision" />
+      <xs:field xpath="mstns:Ced_Empleado" />
+      <xs:field xpath="mstns:Fec_salida" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

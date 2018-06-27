@@ -1,0 +1,762 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RHForms
+</name>
+</assembly>
+<members>
+<member name="F:RHForms.adminCargos._Form1">
+<summary>
+Form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.adminCargos._flg_SalvarDC">
+<summary>
+flg_SalvarDC control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.adminCargos._div_crearDescr">
+<summary>
+div_crearDescr control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.adminCargos._div_ConsultaDescr">
+<summary>
+div_ConsultaDescr control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.adminCargos._cmbEmpleado">
+<summary>
+cmbEmpleado control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.adminCargos._btn_Consultar_CV">
+<summary>
+btn_Consultar_CV control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.adminCargos._div_CargaDescr">
+<summary>
+div_CargaDescr control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.adminCargos._cmb_EmpleadoCarga">
+<summary>
+cmb_EmpleadoCarga control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.adminCargos._cmb_Cargos">
+<summary>
+cmb_Cargos control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.adminCargos._btn_Asociar">
+<summary>
+btn_Asociar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.adminCargos._lblinfo">
+<summary>
+lblinfo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.adminCargos._codigoCargo_tx">
+<summary>
+codigoCargo_tx control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.adminCargos._NombreCargo_tx">
+<summary>
+NombreCargo_tx control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.adminCargos._tx_FileCV_Name">
+<summary>
+tx_FileCV_Name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.adminCargos._btn_Salvar_DC">
+<summary>
+btn_Salvar_DC control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.admincv._Form1">
+<summary>
+Form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.admincv._flg_Salvar">
+<summary>
+flg_Salvar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.admincv._cmbEmpleado">
+<summary>
+cmbEmpleado control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.admincv._btn_Consultar_CV">
+<summary>
+btn_Consultar_CV control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.admincv._lblinfo">
+<summary>
+lblinfo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.admincv._cmb_EmpleadoCarga">
+<summary>
+cmb_EmpleadoCarga control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.admincv._tx_fileDesc">
+<summary>
+tx_fileDesc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.admincv._tx_FileCV_Name">
+<summary>
+tx_FileCV_Name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.admincv._btn_Salvar_CV">
+<summary>
+btn_Salvar_CV control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.ArchivoPlano._Form1">
+<summary>
+Form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.ArchivoPlano._Label13">
+<summary>
+Label13 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.ArchivoPlano._cmbmes">
+<summary>
+cmbmes control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.ArchivoPlano._Label14">
+<summary>
+Label14 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.ArchivoPlano._cmbano">
+<summary>
+cmbano control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.ArchivoPlano._Label1">
+<summary>
+Label1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.ArchivoPlano._cmbTipo">
+<summary>
+cmbTipo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.ArchivoPlano._btn_Procesar">
+<summary>
+btn_Procesar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.ArchivoPlano._lbl_ColorC">
+<summary>
+lbl_ColorC control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.ArchivoPlano._lbl_ColorA">
+<summary>
+lbl_ColorA control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.cartabeneficios._Form1">
+<summary>
+Form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Dependientes._Form1">
+<summary>
+Form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Dependientes._Label9">
+<summary>
+Label9 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Dependientes._lblOftalmo">
+<summary>
+lblOftalmo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Dependientes._lblOfta">
+<summary>
+lblOfta control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Dependientes._lblPsicolo">
+<summary>
+lblPsicolo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Dependientes._lblpacs">
+<summary>
+lblpacs control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Dependientes._lblPqtefm">
+<summary>
+lblPqtefm control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Dependientes._lblpqte">
+<summary>
+lblpqte control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.DetalleReembolso._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.download._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.FondoEmpl._Form2">
+<summary>
+Form2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.FondoEmpl._Label13">
+<summary>
+Label13 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.FondoEmpl._Label14">
+<summary>
+Label14 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Grupos._Form1">
+<summary>
+Form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Inverloc._Form2">
+<summary>
+Form2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Inverloc._Label13">
+<summary>
+Label13 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Inverloc._cmbMes">
+<summary>
+cmbMes control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Inverloc._Label14">
+<summary>
+Label14 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Inverloc._cmbano">
+<summary>
+cmbano control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Inverloc._btn_Extracto">
+<summary>
+btn_Extracto control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.MesBloqueado._lblinfo">
+<summary>
+lblinfo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Perfil._Form1">
+<summary>
+Form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Perfil._btn_ActualizaPerfil">
+<summary>
+btn_ActualizaPerfil control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Perfil._tx_DireccionEmpleado">
+<summary>
+tx_DireccionEmpleado control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Perfil._tx_TelefonoResidencia">
+<summary>
+tx_TelefonoResidencia control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Perfil._tx_CelularIntra">
+<summary>
+tx_CelularIntra control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Perfil._tx_PersonalMail">
+<summary>
+tx_PersonalMail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.soportes._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.soportes._FileUpload1">
+<summary>
+FileUpload1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.soportes._Label1">
+<summary>
+Label1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.Tipos._Form1">
+<summary>
+Form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="T:RHForms.dsconsulta">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:RHForms.dsconsulta.ReembolsoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RHForms.dsconsulta.ReembolsoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RHForms.dsconsulta.ReembolsoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RHForms.dsGrilla">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:RHForms.dsGrilla.OrdendeMisionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RHForms.dsGrilla.OrdendeMisionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RHForms.dsGrilla.OrdendeMisionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RHForms.dsReembolso">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:RHForms.dsReembolso.ReembolsoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RHForms.dsReembolso.ReembolsoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RHForms.dsReembolso.ReembolsoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="F:RHForms.GrupoFamiliar._Form1">
+<summary>
+Form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.GrupoFamiliar._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.RH_Interact._MainContent">
+<summary>
+MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:RHForms.ReporteEvaluacion2010.ObtenerDataSet(System.String)">
+ <summary>
+ Creadas para suplantar Objeto RHForms.Conecciones
+ Del cual no se encontro Código Fuente
+ </summary>
+ <param name="query"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:RHForms.ReporteEvaluacion2010.ExecuteNonQueryCommand(System.String)">
+ <summary>
+Creadas para suplantar Objeto RHForms.Conecciones
+ Del cual no se encontro Código Fuente
+ </summary>
+ <param name="queryCommand"></param>
+ <remarks></remarks>
+</member>
+<member name="F:RHForms.viewReport._titleReport">
+<summary>
+titleReport control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.viewReport._Form2">
+<summary>
+Form2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.viewReport._Group">
+<summary>
+Group control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.viewReport._failureText">
+<summary>
+failureText control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.viewReport._ScriptManager">
+<summary>
+ScriptManager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RHForms.viewReport._ReportViewer">
+<summary>
+ReportViewer control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
