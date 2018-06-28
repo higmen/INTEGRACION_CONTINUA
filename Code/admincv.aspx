@@ -15,6 +15,7 @@
                         <asp:dropdownlist id="cmbEmpleado" class="form-control" style="Z-INDEX: 106" runat="server" AutoPostBack="True"></asp:dropdownlist>
                 </h5>
 
+
                 </div>
                 <div class="panel-footer">
                     <%--<asp:LinkButton id="btn_Consultar_CV"  type="button" 
