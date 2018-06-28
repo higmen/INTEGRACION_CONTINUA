@@ -6,7 +6,7 @@
                     <div class="table-responsive">
                         <div class="row" style="margin: 10px">
                             <div class="col-md-4" ><!--ETIQUETAS CUPOS !-->
-                                <h4><asp:Label ID="Label9" Style="Z-INDEX: 138" runat="server" >CUPOS DISPONIBLES</asp:Label><br />
+                                <h4><asp:Label ID="Label9" Style="Z-INDEX: 138" runat="server" >CUPOS DISPONIBLES</asp:Label>&nbsp;EN:<br />
                                 <asp:Label ID="lblOftalmo" Style="Z-INDEX: 135" runat="server">Oftalmolog&iacute;a:&nbsp;</asp:Label>
                                 <asp:Label ID="lblOfta" class="label label-success" Style="Z-INDEX: 139" runat="server">0</asp:Label></h4>
                             </div>		
